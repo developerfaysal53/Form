@@ -1,0 +1,68 @@
+body{
+    background: url(https://images.unsplash.com/photo-1553095066-5014bc7b7f2d?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8bGlnaHRpbmd8ZW58MHx8MHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60);
+    color: white;
+    background-size: cover;
+    background-position: auto center;
+}
+div{
+    height: auto;
+    width: 340px;
+    margin: 30 auto;
+    padding: 50px;
+    background: linear-gradient(to right, #910066 0%, #880033 100%);
+    z-index: 1;
+    border-radius: 25% 0% 25% 0%;
+}
+input{
+    margin-bottom: 5px;
+    padding: 1px;
+}
+select{
+    margin-bottom: 5px;
+    padding-right: 48px;
+    padding-left: 8px;
+    background: white;
+}
+
+.name{
+    padding-right: 15px;
+}
+.name2{
+    padding-right: 20px;
+}
+.email{
+    padding-right: 50px;
+}
+.pass{
+    padding-right: 25px;
+}
+.phn{
+    padding-right: 47px;
+}
+.city{
+    padding-right: 60px;
+}
+.zip{
+    padding-right: 25px;
+}
+.gender{
+    padding-right: 30px;
+}
+.services{
+    padding-right: 28px;
+}
+.upload{
+    padding-right: 13px;
+}
+.msg{
+    padding-right: 27px;
+}
+.submit{
+    margin-left: 100px;
+    padding: 10px 25px;
+    margin-top: 10px;
+}
+.reset{
+    padding: 10px 30px;
+    margin-top: 10px; 
+}
